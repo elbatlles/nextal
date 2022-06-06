@@ -8,6 +8,10 @@
   animation: slide 4s linear infinite;
 }
 
+.container {
+  @apply p-8;
+}
+
 :global(.dark) .layout {
   @apply bg-black;
   background-image: radial-gradient(hsla(0, 0%, 84%, 0.25) 1px, transparent 0),

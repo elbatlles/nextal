@@ -9,7 +9,7 @@ Array [
       className="copyInner"
     >
       <a
-        href="https://github.com/jvidalv/nextal"
+        href="https://github.com/elbatlles/nextal"
       >
         <button
           className="button"
@@ -33,7 +33,7 @@ Array [
             $
              
           </span>
-          npx degit jvidalv/nextal my-nextjs-app
+          git clone https://github.com/elbatlles/nextal
         </span>
         <span
           className="srOnly"
@@ -61,267 +61,26 @@ Array [
     </div>
   </section>,
   <section
-    className="features"
+    className="copy"
   >
     <div
-      className="feature"
+      className="container"
     >
-      <a
-        className="feature"
-        href="https://nextjs.org/"
+      <div
+        className="listfriends"
       >
-        <h2
-          className="title"
-        >
-          Next
-           →
-        </h2>
-        <p
-          className="description"
-        >
-          Best developer experience with all the features you need for production: hybrid static & server rendering
-        </p>
-      </a>
-    </div>
-    <div
-      className="feature"
-    >
-      <a
-        className="feature"
-        href="https://reactjs.org/"
+        list
+      </div>
+      <div
+        className="areachat"
       >
-        <h2
-          className="title"
-        >
-          React
-           →
-        </h2>
-        <p
-          className="description"
-        >
-          JavaScript library for building user interfaces.
-        </p>
-      </a>
-    </div>
-    <div
-      className="feature"
-    >
-      <a
-        className="feature"
-        href="https://www.typescriptlang.org/"
+        chat
+      </div>
+      <div
+        className="areawrite"
       >
-        <h2
-          className="title"
-        >
-          TypeScript
-           →
-        </h2>
-        <p
-          className="description"
-        >
-          Strongly typed programming language that builds on JavaScript.
-        </p>
-      </a>
-    </div>
-    <div
-      className="feature"
-    >
-      <a
-        className="feature"
-        href="https://tailwindcss.com/"
-      >
-        <h2
-          className="title"
-        >
-          Tailwind with JIT
-           →
-        </h2>
-        <p
-          className="description"
-        >
-          A utility-first CSS framework packed with classes.
-        </p>
-      </a>
-    </div>
-    <div
-      className="feature"
-    >
-      <a
-        className="feature"
-        href="https://jestjs.io/"
-      >
-        <h2
-          className="title"
-        >
-          Jest
-           →
-        </h2>
-        <p
-          className="description"
-        >
-          Testing Framework with a focus on simplicity.
-        </p>
-      </a>
-    </div>
-    <div
-      className="feature"
-    >
-      <a
-        className="feature"
-        href="https://tailwindcss.com/docs/dark-mode"
-      >
-        <h2
-          className="title"
-        >
-          Dark Mode
-           →
-        </h2>
-        <p
-          className="description"
-        >
-          Dark theme support for CSS-Modules and Tailwind.
-        </p>
-      </a>
-    </div>
-    <div
-      className="feature"
-    >
-      <a
-        className="feature"
-        href="https://github.com/css-modules/css-modules"
-      >
-        <h2
-          className="title"
-        >
-          CSS Modules
-           →
-        </h2>
-        <p
-          className="description"
-        >
-          CSS file in which all class names and animation names are scoped locally by default.
-        </p>
-      </a>
-    </div>
-    <div
-      className="feature"
-    >
-      <a
-        className="feature"
-        href="https://eslint.org/"
-      >
-        <h2
-          className="title"
-        >
-          ESLint
-           →
-        </h2>
-        <p
-          className="description"
-        >
-          Find and fix problems in your JavaScript code.
-        </p>
-      </a>
-    </div>
-    <div
-      className="feature"
-    >
-      <a
-        className="feature"
-        href="https://prettier.io/"
-      >
-        <h2
-          className="title"
-        >
-          Prettier
-           →
-        </h2>
-        <p
-          className="description"
-        >
-          An opinionated code formatter.
-        </p>
-      </a>
-    </div>
-    <div
-      className="feature"
-    >
-      <a
-        className="feature"
-        href="https://github.com/typicode/husky"
-      >
-        <h2
-          className="title"
-        >
-          Husky
-           →
-        </h2>
-        <p
-          className="description"
-        >
-          Lint your commit messages, run tests, lint code, etc... when you commit or push.
-        </p>
-      </a>
-    </div>
-    <div
-      className="feature"
-    >
-      <a
-        className="feature"
-        href="https://github.com/conventional-changelog/commitlint"
-      >
-        <h2
-          className="title"
-        >
-          Commit-lint
-           →
-        </h2>
-        <p
-          className="description"
-        >
-          Helps your team adhering to a commit convention.
-        </p>
-      </a>
-    </div>
-    <div
-      className="feature"
-    >
-      <a
-        className="feature"
-        href="https://bradfrost.com/blog/post/atomic-web-design/"
-      >
-        <h2
-          className="title"
-        >
-          Atomic design
-           →
-        </h2>
-        <p
-          className="description"
-        >
-          We’re not designing pages, we’re designing systems of components.
-        </p>
-      </a>
-    </div>
-    <div
-      className="feature"
-    >
-      <a
-        className="feature"
-        href="https://github.com/vitejs/vite/issues/88#issuecomment-762415200"
-      >
-        <h2
-          className="title"
-        >
-          Absolute imports
-           →
-        </h2>
-        <p
-          className="description"
-        >
-          Import resource using its full path from the project’s src folder.
-        </p>
-      </a>
+        <textarea />
+      </div>
     </div>
   </section>,
 ]
